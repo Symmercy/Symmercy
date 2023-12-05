@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My online alias is Symmercy
+#### I am a hobby developer from Croatia
+![I am a hobby developer from Croatia](symmercy.github.io/python-banner.png)
 
-<!--
-**Symmercy/Symmercy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I sometimes make programs with python html or bash
 
-Here are some ideas to get you started:
+Skills: PYTHON/BASH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
