@@ -5,12 +5,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Symmercy&show_icons=true&theme=tokyonight" />
 </a></p>
 
-I sometimes make programs with python html or bash
-I mostly put some of my passion projects on here so its easier for me to download
+### 👷 Check out what I'm working on
 
-Skills: PYTHON/BASH
+- [Symmercy/dwm-setup](https://github.com/Symmercy/dwm-setup) - A setup script for my build of dwm
+- [Symmercy/dialect-translate](https://github.com/Symmercy/dialect-translate) - A website for translating words between dialects
+- [Symmercy/dialect-translate](https://github.com/Symmercy/dwm) - A minimal build of dwm
 
-- 🔭 I’m currently working on this page.
 
 
 
