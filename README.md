@@ -9,7 +9,7 @@
 
 - [Symmercy/dwm-setup](https://github.com/Symmercy/dwm-setup) - A setup script for my build of dwm
 - [Symmercy/dialect-translate](https://github.com/Symmercy/dialect-translate) - A website for translating words between dialects
-- [Symmercy/dialect-translate](https://github.com/Symmercy/dwm) - A minimal build of dwm
+- [Symmercy/dwm](https://github.com/Symmercy/dwm) - A minimal build of dwm
 
 
 
